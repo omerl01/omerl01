@@ -8,8 +8,11 @@ I am a technical problem-solver who speaks both "Code" and "Business." After 3 y
 ### 🛠️ The Tech Toolbox
 
 | Category | Tools & Technologies |
+
 | **DevOps & Infrastructure** | 🐧 Linux, 🐳 Docker, ☸️ Kubernetes, ☁️ AWS |
+
 | **Automation & Scripting** | 🐚 Bash Scripting, 🐍 Python, ⚙️ CI/CD Pipelines |
+
 | **Project Management** | 📅 Agile/Scrum, 🏗️ azure-tfs |
 ---
 
